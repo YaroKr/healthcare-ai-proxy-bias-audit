@@ -24,8 +24,8 @@ Repository contents
 ```
 .
 ├── README.md                          # this file
-├── healthcare_proxy_bias_audit.ipynb  # the Colab notebook (full pipeline)
-├── report.pdf                         # the written ethical audit report
+├── Ethical_Artificial_Intelligence_Implementation_IndAssignment.ipynb  # the Colab notebook (full pipeline)
+├
 └── outputs/
     ├── plots/                         # fairness + proxy-bias figures
     ├── explainability/                # SHAP global + by-group, LIME explanations
